@@ -2,7 +2,7 @@
 
 **Computer Science Undergraduate | Software Engineer | Systems & Backend Development**
 
-I'm a Computer Science undergraduate at **SASTRA Deemed University (2024–2028)** interested in building reliable software systems and understanding the fundamentals behind them.
+I'm a Computer Science undergraduate at **SASTRA Deemed University** interested in building reliable software systems and understanding the fundamentals behind them.
 
 I enjoy working across the software stack, from low-level programming and operating systems to backend architecture, databases and full-stack applications.
 
